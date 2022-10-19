@@ -196,7 +196,7 @@ z-index: 4;
 }
 .cd-hero__slide:first-of-type {
 
-  background-color: #111314;
+  background-color: #050b24;
 
 
   /* background-image: url(../uploads/slider-01.jpg); */
@@ -353,7 +353,7 @@ margin-top: -20px;
   line-height: 1.2;
   margin: 0 auto 14px;
   color: #ffffff;
-  width: 90%;
+  /* width: 90%; */
   max-width: 400px;
   font-weight: 300;
 }
